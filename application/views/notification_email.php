@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;" />
+    <meta name="viewport" content="width=600,initial-scale = 2.3,user-scalable=no">
+    <!--[if !mso]><!-- -->
+    <link href='https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700' rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel="stylesheet">
+    <!-- <![endif]-->
+
+    <title>Email Verification</title>
+
+    <style type="text/css">
+        body {
+            width: 100%;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            mso-margin-top-alt: 0px;
+            mso-margin-bottom-alt: 0px;
+            mso-padding-alt: 0px 0px 0px 0px;
+        }
+        
+        p,
+        h1,
+        h2,
+        h3,
+        h4 {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        
+        span.preheader {
+            display: none;
+            font-size: 1px;
+        }
+        
+        html {
+            width: 100%;
+        }
+        
+        table {
+            font-size: 14px;
+            border: 0;
+        }
+        /* ----------- responsivity ----------- */
+        
+        @media only screen and (max-width: 640px) {
+            /*------ top header ------ */
+            .main-header {
+                font-size: 20px !important;
+            }
+            .main-section-header {
+                font-size: 28px !important;
+            }
+            .show {
+                display: block !important;
+            }
+            .hide {
+                display: none !important;
+            }
+            .align-center {
+                text-align: center !important;
+            }
+            .no-bg {
+                background: none !important;
+            }
+            /*----- main image -------*/
+            .main-image img {
+                width: 440px !important;
+                height: auto !important;
+            }
+            /* ====== divider ====== */
+            .divider img {
+                width: 440px !important;
+            }
+            /*-------- container --------*/
+            .container590 {
+                width: 440px !important;
+            }
+            .container580 {
+                width: 400px !important;
+            }
+            .main-button {
+                width: 220px !important;
+            }
+            /*-------- secions ----------*/
+            .section-img img {
+                width: 320px !important;
+                height: auto !important;
+            }
+            .team-img img {
+                width: 100% !important;
+                height: auto !important;
+            }
+        }
+        
+        @media only screen and (max-width: 479px) {
+            /*------ top header ------ */
+            .main-header {
+                font-size: 18px !important;
+            }
+            .main-section-header {
+                font-size: 26px !important;
+            }
+            /* ====== divider ====== */
+            .divider img {
+                width: 280px !important;
+            }
+            /*-------- container --------*/
+            .container590 {
+                width: 280px !important;
+            }
+            .container590 {
+                width: 280px !important;
+            }
+            .container580 {
+                width: 260px !important;
+            }
+            /*-------- secions ----------*/
+            .section-img img {
+                width: 280px !important;
+                height: auto !important;
+            }
+        }
+
+        .profile-userpic img {
+          float: none;
+          margin: 0 auto;
+          width: 50%;
+          height: 50%;
+          -webkit-border-radius: 50% !important;
+          -moz-border-radius: 50% !important;
+          border-radius: 45% !important;
+        }
+
+        .profile-usertitle {
+          text-align: center;
+          margin-top: 20px;
+        }
+
+        .profile-usertitle-name {
+          color: #5a7391;
+          font-size: 16px;
+          font-weight: 600;
+          margin-bottom: 7px;
+        }
+
+        .blog-info {
+          list-style: none;
+          margin: 15px 0 12px 0;
+          padding-left:0;
+        }
+        .blog-info li {
+          padding: 0;
+          color: #555;
+          font-size: 13px;
+          margin-right: 10px; 
+          display: inline-block;
+        }
+        .blog-info li i {
+          color: #E84D1C;
+        }
+
+    </style>
+    <!-- [if gte mso 9]><style type=”text/css”>
+        body {
+        font-family: arial, sans-serif!important;
+        }
+        </style>
+    <![endif]-->
+</head>
+
+
+<body class="respond" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <!-- pre-header -->
+    <table style="display:none!important;">
+        <tr>
+            <td>
+                <div style="overflow:hidden;display:none;font-size:1px;color:#ffffff;line-height:1px;font-family:Arial;maxheight:0px;max-width:0px;opacity:0;">
+                    Metospher'de sizinle çalışmak isteyen birileri var!
+                </div>
+            </td>
+        </tr>
+    </table>
+    <!-- pre-header end -->
+   
+
+    <!-- big image section -->
+    <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" class="bg_color">
+
+        <tr>
+            <td align="center">
+                <table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590">
+                    
+                    <tr>
+                        <td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="color: #343434; font-size: 24px; font-family: Quicksand, Calibri, sans-serif; font-weight:700;letter-spacing: 3px; line-height: 35px;" class="main-header">
+
+
+                            <div style="line-height: 35px">
+
+                                GÖZLER <span style="color: #5caad2;">ÜZERİNİZDE</span>
+
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td>
+                    </tr>
+
+                    <tr>
+                        <td align="center">
+                            <table border="0" width="40" align="center" cellpadding="0" cellspacing="0" bgcolor="eeeeee">
+                                <tr>
+                                    <td height="2" style="font-size: 2px; line-height: 2px;">&nbsp;</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+
+
+
+                    <tr>
+                        <td align="center">
+                            <table border="0" width="400" align="center" cellpadding="0" cellspacing="0" class="container590">
+                                <tr>
+                                    <td align="center" style="color: #888888; font-size: 16px; font-family: 'Work Sans', Calibri, sans-serif; line-height: 24px;">
+
+
+                                        <div style="line-height: 24px">
+
+                                            Sizinle çalışmak isteyen birileri var! Aşağıda bilgilerini gördüğünüz Metospher kullanıcısı sizinle çalışmak istiyor. Hemen kendisiyle iletişime geçin.
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+
+                    <tr>
+
+                        <td align="center" class="section-img">
+                            
+                            <div class="profile-usertitle">
+                                <div class="profile-usertitle-name">
+                                  <?php echo $name . " " . $surname ?>
+                                </div>
+                                <ul class="blog-info">
+
+                                    <?php $age= date("Y")-date("Y",strtotime($birthdate)); ?>
+                                    <li><i class="fa fa-calendar"></i> <?php echo $age; ?> yaşında </li>
+
+                                  
+                                    <?php if($gender==1) $fa_gender='female'; else $fa_gender='male'  ?>
+                                    <?php if($gender==1) $gender='Kadın'; else $gender='Erkek'  ?>
+                                    <li><i class="fa fa-<?php echo $fa_gender ?>"></i> <?php echo $gender ?> </li>
+
+                                  
+
+                                    <li><i class="fa fa-map-marker"></i> <?php echo $city_name . '  / ' . $district_name; ?></li>
+                                </ul>
+                                <ul class="blog-info">
+                                  <li><strong>Öğretebilecekleri: </strong><?php if(!empty($teaches))echo $teaches; else echo"Belirtilmemiş"; ?></li>
+                                </ul>
+                                <ul class="blog-info">
+                                  <li><strong>Öğrenmek istedikleri: </strong><?php if(!empty($learns))echo $learns; else echo "Belirtilmemiş"; ?></li>
+                                </ul>
+                            </div>
+
+
+
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td height="25" style="font-size: 25px; line-height: 25px;">&nbsp;</td>
+                    </tr>
+
+
+
+                    <tr>
+                        <td align="center">
+                            <table border="0" align="center" width="160" cellpadding="0" cellspacing="0" bgcolor="5caad2" style="">
+
+                                <tr>
+                                    <td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td>
+                                </tr>
+
+                                <tr>
+                                    <td align="center" style="color: #ffffff; font-size: 14px; font-family: 'Work Sans', Calibri, sans-serif; line-height: 26px;">
+
+
+                                        <div style="line-height: 26px;">
+                                            <a href="<?php echo site_url('request'); ?>" style="color: #ffffff; text-decoration: none; font-weight: bold;">İSTEĞİ GÖR</a>
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+
+
+                </table>
+
+            </td>
+        </tr>
+
+    </table>
+    <!-- end section -->
+
+    <!-- contact section -->
+    <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" class="bg_color">
+
+        <tr class="hide">
+            <td height="25" style="font-size: 25px; line-height: 25px;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td height="40" style="font-size: 40px; line-height: 40px;">&nbsp;</td>
+        </tr>
+
+        <tr>
+            <td height="60" style="border-top: 1px solid #e0e0e0;font-size: 60px; line-height: 60px;">&nbsp;</td>
+        </tr>
+
+        <tr>
+            <td align="center">
+                <table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590 bg_color">
+
+                    <tr>
+                        <td>
+                            <table border="0" width="300" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+
+                                <tr>
+                                    <!-- logo -->
+                                    <td align="left">
+                                        <a href="<?php echo site_url(); ?>" style="display: block; border-style: none !important; border: 0 !important;"><img width="80" border="0" style="display: block; width: 80px;" src="http://metospher.com/logo-metospher.png" alt="Metospher Logo" /></a>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td height="25" style="font-size: 25px; line-height: 25px;">&nbsp;</td>
+                                </tr>
+
+                                <tr>
+                                    <td align="left" style="color: #888888; font-size: 14px; font-family: 'Work Sans', Calibri, sans-serif; line-height: 23px;" class="text_color">
+                                        <div style="color: #333333; font-size: 14px; font-family: 'Work Sans', Calibri, sans-serif; font-weight: 600; mso-line-height-rule: exactly; line-height: 23px;">
+
+                                            Bize ulaşın: <br/> <a href="mailto: contact@metospher.com" style="color: #888888; font-size: 14px; font-family: 'Hind Siliguri', Calibri, Sans-serif; font-weight: 400;">contact@metospher.com</a>
+
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </table>
+
+                            <table border="0" width="2" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+                                <tr>
+                                    <td width="2" height="10" style="font-size: 10px; line-height: 10px;"></td>
+                                </tr>
+                            </table>
+
+                            <table border="0" width="200" align="right" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+
+                                <tr>
+                                    <td class="hide" height="45" style="font-size: 45px; line-height: 45px;">&nbsp;</td>
+                                </tr>
+
+
+
+                                <tr>
+                                    <td height="15" style="font-size: 15px; line-height: 15px;">&nbsp;</td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td height="60" style="font-size: 60px; line-height: 60px;">&nbsp;</td>
+        </tr>
+
+    </table>
+    <!-- end section -->
+
+
+
+</body>
+
+</html>

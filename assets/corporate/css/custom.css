@@ -1,0 +1,48 @@
+.profile-userpic img {
+  float: none;
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  border-radius: 45% !important;
+}
+
+.profile-usertitle {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.profile-usertitle-name {
+  color: #5a7391;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 7px;
+}
+
+.footer-last-content .contact-info{
+padding-top:10px; 
+}
+.footer-last-content .contact-info p{
+    margin-bottom:3px;
+}
+.footer-last-content .contact-info p i{
+    font-size:13px;
+    margin-right:10px;
+}
+
+@media screen and (max-width: 800px){
+  .hidden-for-mobile{
+    display: none;
+    visibility: hidden;
+  }
+
+}
+
+.terms-header{
+  color: #44b1c1;
+}
+
+.terms-text{
+  margin-bottom: 30px;
+}
